@@ -1,0 +1,30 @@
+# Python cache and venv
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+jdvenv/
+venv/
+env/
+\.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS/Windows files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+data/indeed.csv

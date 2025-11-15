@@ -1,0 +1,102 @@
+SOORYAPRIYA S
+Location: Nagercoil, Kanniyakumari, Tamilnadu
+Mail: sooryapriya838@gmail.com
+Contact: (+91) 7397619110
+LinkedIn: http://www.linkedin.com/in/sooryapriya-sankar-2992b626b
+
+OBJECTIVE
+A motivated B.Tech IT student with hands-on experience in front-end and full-stack development. Strong foundation in Python, Java, HTML, CSS, JavaScript, and automation. Seeking an internship to build real-world applications and contribute to collaborative projects.
+
+EDUCATION
+University College of Engineering, Nagercoil
+B.Tech in Information Technology | 2022 – 2026 | CGPA: 8.55
+Relevant Coursework: Web Technologies, Data Structures, DBMS, Operating Systems, Full Stack Web Development, Embedded IoT, Networking, Remote Automation using UI Path, AI, Data Science, Business Analytics, Figma Tool, Mobile App Development (Flutter), Network Security Protocols, OpenCV
+
+D V D Higher Secondary School, Nagercoil
+XII - Computer Science | 2022 | Percentage: 89.5
+
+SKILLS
+
+Technical Skills
+
+Programming: Python, C, Java, C++
+
+Web Development: HTML, CSS, JavaScript, Bootstrap
+
+Database: MySQL, MongoDB
+
+Tools & Technologies: Figma, UI Path Automation, OpenCV, Cloud Computing, Machine Learning (Beginner-level)
+
+Soft Skills
+
+Communication
+
+Collaboration
+
+Time Management
+
+Adaptability
+
+Logical Thinking
+
+EXPERIENCE
+
+Linux & Containers Intern, CubenSquare – Remote
+Apr 2024 – Jun 2024
+
+Worked on Linux system administration and containerization technologies
+
+Improved shell scripting skills for system management
+
+Explored Docker containerization for deployment practices
+
+Web Development Intern, E-Max Education – Nagercoil
+Jan 2025
+
+Developed interactive front-end pages using HTML, JavaScript, and Bootstrap
+
+Built responsive layouts for learning modules improving usability on mobile devices
+
+PROJECTS
+
+Notepad Clone using Java and JavaFX
+
+Instagram Clone using HTML, CSS, JavaScript
+
+Shopping Application with front-end and back-end integration
+
+Automation on generating and updating employee passcodes from Excel worksheets using UI Path
+
+Grow Green - prototype that helps to grow plant varieties using Figma
+
+2D Gesture-Based Game with animations using Flutter
+
+Damaged Car Image Processing using OpenCV
+
+Number Plate Detection using OpenCV
+
+Weapon Detection for Military Safety using YOLO and OpenCV
+
+ACHIEVEMENTS
+
+Certification: Introduction to Industry 4.0 and Internet of Things (NPTEL) – 83% (Elite badge)
+
+2nd Prize in WebSculpt (Website Development) – Innovace'25, St. Xavier Catholic College of Engineering
+
+Completed a 5 days Employability Soft Skill Training Programme sponsored by RUSA
+
+First Prize in Throw Ball Match, Athlete Event 2025, UCE Nagercoil
+
+CO-CURRICULAR ACTIVITIES
+
+Paper Presentation on 'Digital Twin' – Techblitz 2025, Anna University Regional Campus - Tirunelveli
+
+Organizer in Farewell Event for seniors at UCE Nagercoil
+
+Participated in Learnathon NM-AU-TNcpl conducted by GUVI, Naan Mudhalvan and Anna University
+
+Attended SAWIT.AI Learnathon on Fundamentals of Generative AI by GUVI, AICTE and SAWiT
+
+Attended a workshop on REACT JS: Mastering in QR code generation by Networkz System, Marthandam
+
+Active participant in coding challenges on LeetCode
