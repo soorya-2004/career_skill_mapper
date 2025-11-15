@@ -4,7 +4,7 @@ This repository contains a small Streamlit app that maps user skills to job role
 
 Files of interest
 - `app.py` — Streamlit app entrypoint.
-- `data/indeed.csv` — job listings dataset (already present in the repo).
+- `data/indeed.csv` — job listings dataset (not present in the repo because of the size constraints).
 - `resume.txt` — example resume text (already present in the repo).
 
 Quick start (Windows PowerShell)
